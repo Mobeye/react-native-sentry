@@ -60,3 +60,17 @@ test_bundle.zip
 __pycache__
 .cache
 wheelhouse
+
+# npmignore (because this is a fork)
+assets
+examples
+docs
+.idea
+appium
+.vscode
+.travis
+.github
+
+# KSCrash
+ios/Sentry/KSCrash
+ios/Sentry/Sources/KSCrash
